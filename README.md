@@ -1,7 +1,7 @@
-# Hi, I'm Nia👋🏻
-
 <h1 align="center">Hai 👋, saya Nia</h1>
-<h3 align="center">Pengembang frontend yang bersemangat dari India</h3>
+<br>
+<h3 align="center">About Me</h3>
+<h3 align="center">Hallo, I am Nia, an information systems student at the Indonesian Men's University YPTK Padang</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niakhairani&label=Profile%20views&color=0e75b6&style=flat" alt="niakhairani" /> </p>
 
