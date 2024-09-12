@@ -1,4 +1,4 @@
-<h1 align="center">Hai 👋, saya Nia</h1>
+<h1 align="center">Hai, I"m Nia👋</h1>
 
 <h3 align="center">About Me</h3>
 <h5 align="center">Hallo, I am Nia, an information systems student at the Indonesian Men's University YPTK Padang</h5>
@@ -14,5 +14,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> </p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=niakhairani&show_icons=true&locale=en" alt="niakhairani" /></p>
+<h3📈 my github stats</h3>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=niakhairani&show_icons=true&theme=gotham" alt="niakhairani" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niakhairani&label=Profile%20views&color=0e75b6&style=flat" alt="niakhairani" /> </p>
