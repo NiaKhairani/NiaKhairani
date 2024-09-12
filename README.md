@@ -1,4 +1,4 @@
-<h1 align="center">Hai 👋, saya Nia</h1>
+<h align="center">Hai 👋, saya Nia</h>
 
 <h3 align="center">About Me</h3>
 <h5 align="center">Hallo, I am Nia, an information systems student at the Indonesian Men's University YPTK Padang</h5>
