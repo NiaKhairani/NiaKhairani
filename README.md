@@ -2,7 +2,7 @@
 
 <h3 align="center">About Me</h3>
 <h5 align="center">Hallo, I am Nia, an information systems student at the UPI YPTK Padang</h5>
-<5 align="center"I am currently still learning several programming languages in college.></h5>
+<h5 align="center"I am currently still learning several programming languages in college.></h5>
 <br>
 <h3 align="center">Sosial</h3>
 <p align="center">
