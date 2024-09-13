@@ -1,5 +1,5 @@
-<p align="right" style="display: flex">
 <b text-align: "center">Hai, I'm Nia👀</b>
+<p align="right" style="display: flex">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" height="150"/>
 </p>
 
@@ -37,6 +37,3 @@
   <img src="https://komarev.com/ghpvc/?username=niakhairani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
-<p align="right">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" height="150"/>
-</p>
