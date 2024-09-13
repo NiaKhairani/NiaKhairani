@@ -19,13 +19,6 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=niakhairani&show_icons=true&theme=gotham" alt="niakhairani" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niakhairani&label=Profile%20views&color=0e75b6&style=flat" alt="niakhairani" /> </p>
 
-<h3>Activities</h3>
-```text
-🌞 Morning                443 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-🌆 Daytime                2882 commits        █████████░░░░░░░░░░░░░░░░   36.82 % 
-🌃 Evening                3411 commits        ███████████░░░░░░░░░░░░░░   43.57 % 
-🌙 Night                  1092 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-```
 
 
 
