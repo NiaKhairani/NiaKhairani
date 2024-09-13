@@ -3,7 +3,7 @@
 <h3 align="center">About Me</h3>
 <h5 align="center">Hallo, I am Nia, an information systems student at the UPI YPTK Padang</h5>
 <h5 align="center">I am currently still learning several programming languages in college</h5>
-<br>
+
 <h3 align="center">Sosial</h3>
 <p align="center">
 <a href="https://instagram.com/niakhrn18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niakhrn18" height="30" width="40" /></a>
