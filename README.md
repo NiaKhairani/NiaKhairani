@@ -1,4 +1,7 @@
 <h2 align="center">Hai, I'm Nia 👀</h2>
+<p align="right">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" height="150"/>
+</p>
 
 <h3 align="center">About Me</h3>
 <p align="center">Hallo, I am Nia, an Information Systems student at UPI YPTK Padang. I am currently learning several programming languages in college and excited to expand my skills.</p>
