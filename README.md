@@ -1,5 +1,7 @@
 <h1 align="center">Hai, I"m Nia👋</h1>
 
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/aIJDrOomj81MQZz2uO" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/ArkusNexus-palmar22-viajemind-thesandboxmind-aIJDrOomj81MQZz2uO">via GIPHY</a></p>
+
 <h3 align="center">About Me</h3>
 <h5 align="center">Hallo, I am Nia, an information systems student at the UPI YPTK Padang</h5>
 <h5 align="center">I am currently still learning several programming languages in college</h5>
