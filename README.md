@@ -1,5 +1,5 @@
 
-<p><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="float:right;width:42px;height:42px;"></p>
+<p><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="float:left;width:20px;height:20px;"></p>
 <h3 align="center">About Me</h3>
 <h5 align="center">Hallo, I am Nia, an information systems student at the UPI YPTK Padang</h5>
 <h5 align="center">I am currently still learning several programming languages in college</h5>
