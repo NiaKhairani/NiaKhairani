@@ -1,4 +1,4 @@
-<p align="center">Hai, I'm Nia👀</p>
+<h1 align="center">Hai, I'm Nia👀</h1>
 <p align="right" style="display: flex">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" height="150"/>
 </p>
