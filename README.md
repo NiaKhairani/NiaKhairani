@@ -1,5 +1,5 @@
-<div style="display: flex; justify-content: center; align-items: center;">
-  <h2 style="margin-right: 20px;">Hai, I'm Nia 👀</h2>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h2 style="text-align: center; flex: 1;">Hai, I'm Nia 👀</h2>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" height="150" />
 </div>
 
