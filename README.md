@@ -1,4 +1,4 @@
-<h2>Hai, I'm Nia</h2>
+<h2 align="center" width="10" height="10">Hai, I'm Nia</h2>
 
 <h3 align="center">About Me</h3>
 <h5 align="center">Hallo, I am Nia, an information systems student at the UPI YPTK Padang</h5>
