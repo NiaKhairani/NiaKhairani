@@ -1,8 +1,5 @@
 
-<p><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="90" height="90" style="vertical-align:middle;margin:100px 50px"><h2>Hai, I"m Nia👋</h2></p>
-
-<h2>Hai, I"m Nia👋</h2>
-<p><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Smiley face" width="42" height="42" style="vertical-align:middle;margin:0px 50px"></p>
+<p><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="90" height="90" style="float:right"><h2>Hai, I"m Nia👋</h2></p>
 
 <h3 align="center">About Me</h3>
 <h5 align="center">Hallo, I am Nia, an information systems student at the UPI YPTK Padang</h5>
