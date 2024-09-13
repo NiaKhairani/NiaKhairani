@@ -1,10 +1,5 @@
 
-<p><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50" height="50" style="vertical-align:middle;margin:100px 50px">Hai, I"m Nia👋</p>
-<div position: absolute; top: 0px; right: 0px id="header">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-<p><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50" height="50" style="vertical-align:middle;margin:100px 50px">Hai, I"m Nia👋</p>
+<p><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="90" height="90" style="vertical-align:middle;margin:100px 50px"><h2 Hai, I"m Nia👋></h2></p>
 
 <h3 align="center">About Me</h3>
 <h5 align="center">Hallo, I am Nia, an information systems student at the UPI YPTK Padang</h5>
