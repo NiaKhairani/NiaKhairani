@@ -1,5 +1,5 @@
 
-<img style="display: block; margin-left: 13px; margin-top: 6px; margin-right: 5px; float: right;" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" height="150" /> 
+<p><img style="display: block; margin-left: 13px; margin-top: 6px; margin-right: 5px; float: right;" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" height="150" />Hai, I'm Nia</p>
 <h3 align="center">About Me</h3>
 <h5 align="center">Hallo, I am Nia, an information systems student at the UPI YPTK Padang</h5>
 <h5 align="center">I am currently still learning several programming languages in college</h5>
