@@ -1,9 +1,7 @@
 <h1 align="center">Hai, I"m Nia👋</h1>
 
-<iframe src="https://giphy.com/embed/aIJDrOomj81MQZz2uO" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/ArkusNexus-palmar22-viajemind-thesandboxmind-aIJDrOomj81MQZz2uO">via GIPHY</a></p>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div position: absolute; top: 0px; right: 0px id="header">
+  <img src="https://giphy.com/embed/aIJDrOomj81MQZz2uO" width="100"/>
 </div>
 
 <h3 align="center">About Me</h3>
