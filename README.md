@@ -2,6 +2,10 @@
 
 <iframe src="https://giphy.com/embed/aIJDrOomj81MQZz2uO" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/ArkusNexus-palmar22-viajemind-thesandboxmind-aIJDrOomj81MQZz2uO">via GIPHY</a></p>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <h3 align="center">About Me</h3>
 <h5 align="center">Hallo, I am Nia, an information systems student at the UPI YPTK Padang</h5>
 <h5 align="center">I am currently still learning several programming languages in college</h5>
