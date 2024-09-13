@@ -1,6 +1,6 @@
-<p style="display: flex; justify-content: center; align-items: center; position: relative;">
-  <b style="flex: 1; text-align: center; margin: 0;">Hai, I'm Nia 👀</b>
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" height="150" style="margin-left: 20px;" />
+<p align="right" style="display: flex>
+<b text-align: center>Hai, I'm Nia👀</b>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" height="150"/>
 </p>
 
 <h3 align="center">About Me</h3>
