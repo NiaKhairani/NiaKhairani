@@ -1,5 +1,5 @@
+<h2>Hai, I'm Nia</h2>
 
-<p><img style="display: block; margin-right: 13px; margin-top: 6px; margin-left: 5px; float: right;" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" height="150"/><h2 align="center>"Hai, I'm Nia</h2></p>
 <h3 align="center">About Me</h3>
 <h5 align="center">Hallo, I am Nia, an information systems student at the UPI YPTK Padang</h5>
 <h5 align="center">I am currently still learning several programming languages in college</h5>
@@ -18,6 +18,9 @@
 <h3 align="center">my github stats</h3>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=niakhairani&show_icons=true&theme=gotham" alt="niakhairani" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niakhairani&label=Profile%20views&color=0e75b6&style=flat" alt="niakhairani" /> </p>
+
+<p><img style="display: block; margin-right: 13px; margin-top: 6px; margin-left: 5px; float: right;" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" height="150"/></p>
+
 
 
 
