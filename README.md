@@ -1,7 +1,7 @@
 <h1 align="center">Hai, I"m Nia👋</h1>
 
 <div position: absolute; top: 0px; right: 0px id="header">
-  <img src="https://giphy.com/embed/aIJDrOomj81MQZz2uO" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 <h3 align="center">About Me</h3>
